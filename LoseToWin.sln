@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoseToWin.Plugins", "LoseToWin.Plugins.csproj", "{8EFE52BB-8119-0920-9D73-3DF9D957056E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoseToWin", "LoseToWin.csproj", "{607F5B2E-B418-629A-8B31-A9AC8B5C8D7D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoseToWin.Editor.Plugins", "LoseToWin.Editor.Plugins.csproj", "{FE17752F-2578-C836-4EF6-692F8CDCABF0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8EFE52BB-8119-0920-9D73-3DF9D957056E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EFE52BB-8119-0920-9D73-3DF9D957056E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EFE52BB-8119-0920-9D73-3DF9D957056E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EFE52BB-8119-0920-9D73-3DF9D957056E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{607F5B2E-B418-629A-8B31-A9AC8B5C8D7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{607F5B2E-B418-629A-8B31-A9AC8B5C8D7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{607F5B2E-B418-629A-8B31-A9AC8B5C8D7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{607F5B2E-B418-629A-8B31-A9AC8B5C8D7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE17752F-2578-C836-4EF6-692F8CDCABF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE17752F-2578-C836-4EF6-692F8CDCABF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE17752F-2578-C836-4EF6-692F8CDCABF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE17752F-2578-C836-4EF6-692F8CDCABF0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
